@@ -2,12 +2,6 @@
 
 <p align="center">
 <img style="padding:10px;" src="https://img.shields.io/badge/Open%20Source-💕%20-9cf?style=for-the-badge"><br>
-<img style="padding:10px;" src="https://img.shields.io/github/contributors/iam-abbas/React-Community-Elements?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/forks/iam-abbas/React-Community-Elements?label=Forks&style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/stars/iam-abbas/React-Community-Elements?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/languages/count/iam-abbas/React-Community-Elements?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/license/iam-abbas/React-Community-Elements?style=flat-square">
-
 
 A community-built repository which has Styled Components that are built using ReactJS.
 
