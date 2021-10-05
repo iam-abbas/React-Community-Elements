@@ -4,7 +4,7 @@ import { Button } from "react-bootstrap";
 function Button(props) {
   return (
     <>
-      <Button variant="primary">{props.name}</Button>
+      <Button variant="primary">{props.children}</Button>
     </>
   );
 }
